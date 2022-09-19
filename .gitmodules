@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dqrng"]
+	path = dqrng
+	url = https://github.com/daqana/dqrng
+	shallow = true
+	registered = true
 [submodule "tikzDevice"]
 	path = tikzDevice
 	url = https://github.com/daqana/tikzdevice

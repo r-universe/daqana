@@ -1,10 +1,10 @@
 [
   {
-    "package": "tikzDevice",
+    "package": "dqrng",
     "oncran": true
   },
   {
-    "package": "dqrng",
+    "package": "tikzDevice",
     "oncran": true
   }
 ]
